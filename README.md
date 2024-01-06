@@ -3,7 +3,7 @@ https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?ixlib=rb-4.0.3&ixid
 )](https://github.com/Hakizimana-Clement)
 
 <h1 align="center">Hi 👋, I'm Hakiziman Clement</h1>
-<h3 align="center">A passionate Full Stack Developer from Rwanda.</h3>
+<h3 align="center">A passionate software developer from Rwanda.</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/coding-freak-1.gif">
 
